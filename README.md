@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-**"UFE: Passive Ultrasonic Sensing for Facial Expression Recognition on Smartphones"**
+**"UFE: Passive Ultrasonic Sensing for User Facial Expression Recognition on Smartphones"**
 
 ## Overview
 
