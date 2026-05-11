@@ -1,0 +1,1 @@
+print("ERAM generation example")

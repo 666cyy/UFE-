@@ -1,0 +1,4 @@
+model: EAFormer
+regions: 6
+classes: 9
+sampling_rate: 48000
